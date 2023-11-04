@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivApiStatistics", "HivApiStatistics.csproj", "{00683E10-8C19-4E64-8C8B-085AF41DFF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00683E10-8C19-4E64-8C8B-085AF41DFF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00683E10-8C19-4E64-8C8B-085AF41DFF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00683E10-8C19-4E64-8C8B-085AF41DFF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00683E10-8C19-4E64-8C8B-085AF41DFF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9617C9-9782-4A47-B1B0-C845F1DD40EA}
+	EndGlobalSection
+EndGlobal
